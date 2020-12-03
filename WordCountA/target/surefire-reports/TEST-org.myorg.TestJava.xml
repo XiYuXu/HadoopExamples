@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="org.myorg.TestJava" time="0.005" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="G:\Downloads\jdkyiba\jre\bin"/>
+    <property name="java.vm.version" value="25.191-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\testEniv\java\WordCountA"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\testEniv\java\WordCountA"/>
+    <property name="java.runtime.version" value="1.8.0_191-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="G:\Downloads\jdkyiba\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\XIAOCH~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="G:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="G:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="G:\Downloads\jdkyiba\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;G:\app\XiaoChuanye\product\11.2.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\XiaoChuanye\AppData\Local\Programs\Python\Python36;C:\Users\XiaoChuanye\AppData\Local\Programs\Python\Python36\Scripts;%MVN_HOME%\bin;C:\Program Files\dotnet\;G:\Program Files\MongoDB\Server\4.2\bin;G:\Program Files\nodejs;D:\Program Files\MATLAB\R2016a\runtime\win64;D:\Program Files\MATLAB\R2016a\bin;D:\Program Files\MATLAB\R2016a\polyspace\bin;G:\Program Files\nodejs\;D:\labor\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;G:\Program Files (x86)\NetSarang\Xshell 7\;G:\Program Files (x86)\NetSarang\Xftp 7\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;G:\Downloads\Ruby26-x64\bin;G:\Downloads\python3\Scripts\;G:\Downloads\python3\;C:\Users\XiaoChuanye\AppData\Local\Microsoft\WindowsApps;G:\Downloads\Bandizip\;G:\Downloads\jdkyiba\bin;G:\Downloads\jdkyiba\jre\bin;G:\Downloads\minGW64\bin;G:\Downloads\IntelliJ IDEA 2018.3.1\bin;C:\Users\XiaoChuanye\Downloads\Compressed\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;G:\Downloads\Microsoft VS Code\bin;C:\Users\XiaoChuanye\AppData\Local\atom\bin;C:\Users\XiaoChuanye\.dotnet\tools;G:\Program Files (x86)\Nmap;G:\Program Files\nodejs;C:\Users\XiaoChuanye\AppData\Roaming\Python\Python37\Scripts;C:\Users\XiaoChuanye\AppData\Local\Microsoft\WindowsApps;C:\Users\XiaoChuanye\AppData\Roaming\npm;;."/>
+    <property name="maven.conf" value="G:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\XiaoChuanye"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="XiaoChuanye"/>
+    <property name="java.class.path" value="G:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;G:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3\boot\plexus-classworlds.license;G:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="G:\Downloads\jdkyiba\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2020.1.2 install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="idea.version2020.1.2" value="true"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_191"/>
+    <property name="java.ext.dirs" value="G:\Downloads\jdkyiba\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="G:\Downloads\jdkyiba\jre\lib\resources.jar;G:\Downloads\jdkyiba\jre\lib\rt.jar;G:\Downloads\jdkyiba\jre\lib\sunrsasign.jar;G:\Downloads\jdkyiba\jre\lib\jsse.jar;G:\Downloads\jdkyiba\jre\lib\jce.jar;G:\Downloads\jdkyiba\jre\lib\charsets.jar;G:\Downloads\jdkyiba\jre\lib\jfr.jar;G:\Downloads\jdkyiba\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="G:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="org.myorg.TestJava" name="TestThis" time="0.005"/>
+</testsuite>
